@@ -3,7 +3,10 @@
 
 
 ##  • About me:
-Tech enthusiast since childhood, I’ve been programming since I was 12 years old and have been working professionally since 2014. I’ve always pursued innovation in creating solutions, exploring different programming languages, databases, architectures, and technologies throughout my journey. Starting with robotics, moving into game development, and naturally evolving into the IT field
+Tech enthusiast since childhood, I’ve been programming since I was 12 years old and have been working professionally since 2014. I’ve always pursued innovation in creating solutions, exploring different programming languages, databases, architectures, and technologies throughout my journey. Starting with robotics, moving into game development, and naturally evolving into the IT field.
+
+
+[![Fcardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcardan&theme=swift&show_icons=true)]
 
 
 ## • Hard Skills:
@@ -39,7 +42,7 @@ Tech enthusiast since childhood, I’ve been programming since I was 12 years ol
 [![Scrapping](https://img.shields.io/badge/Scrapping-FF6F61?style=for-the-badge&logo=python&logoColor=white)](Scrapping)
 [![Bot](https://img.shields.io/badge/Bot-FF6F61?style=for-the-badge&logo=telegram&logoColor=white)](Bot)
 
-## Follow:
+## • Let's connect:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcardan)
 [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fcardan)
