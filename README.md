@@ -6,7 +6,7 @@
 Tech enthusiast since childhood, I’ve been programming since I was 12 years old and have been working professionally since 2014. I’ve always pursued innovation in creating solutions, exploring different programming languages, databases, architectures, and technologies throughout my journey. Starting with robotics, moving into game development, and naturally evolving into the IT field.
 
 
-[![Fcardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcardan&theme=swift&show_icons=true)]
+![Fcardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcardan&theme=swift&show_icons=true)
 
 
 ## • Hard Skills:
@@ -30,8 +30,9 @@ Tech enthusiast since childhood, I’ve been programming since I was 12 years ol
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](Git)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](Bitbucket)
 [![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)](Sourcetree)
-[![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)](Insomnia)
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](VSCode)
+[![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)](Insomnia)
+
 
 [![POO](https://img.shields.io/badge/POO-FF6F61?style=for-the-badge&logo=java&logoColor=white)](POO)
 [![PDO](https://img.shields.io/badge/PDO-FF6F61?style=for-the-badge&logo=php&logoColor=white)](PDO)
