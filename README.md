@@ -5,10 +5,6 @@
 ##  • About me:
 Tech enthusiast since childhood, I’ve been programming since I was 12 years old and have been working professionally since 2014. I’ve always pursued innovation in creating solutions, exploring different programming languages, databases, architectures, and technologies throughout my journey. Starting with robotics, moving into game development, and naturally evolving into the IT field.
 
-
-![Fcardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcardan&theme=swift&show_icons=true)
-
-
 ## • Hard Skills:
 
 [![PHP](https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=PHP&logoColor=white)](PHP)
@@ -33,7 +29,6 @@ Tech enthusiast since childhood, I’ve been programming since I was 12 years ol
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](VSCode)
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)](Insomnia)
 
-
 [![POO](https://img.shields.io/badge/POO-FF6F61?style=for-the-badge&logo=java&logoColor=white)](POO)
 [![PDO](https://img.shields.io/badge/PDO-FF6F61?style=for-the-badge&logo=php&logoColor=white)](PDO)
 [![MVC](https://img.shields.io/badge/MVC-FF6F61?style=for-the-badge&logo=laravel&logoColor=white)](MVC)
@@ -42,6 +37,11 @@ Tech enthusiast since childhood, I’ve been programming since I was 12 years ol
 [![API](https://img.shields.io/badge/API-FF6F61?style=for-the-badge&logo=postman&logoColor=white)](API)
 [![Scrapping](https://img.shields.io/badge/Scrapping-FF6F61?style=for-the-badge&logo=python&logoColor=white)](Scrapping)
 [![Bot](https://img.shields.io/badge/Bot-FF6F61?style=for-the-badge&logo=telegram&logoColor=white)](Bot)
+
+## • Stats:
+
+![Fcardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcardan&theme=swift&show_icons=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fcardan&layout=compact&bg_color=f7f7f7&border_color=e4e2e2&title_color=000&text_color=000)
 
 ## • Let's connect:
 
