@@ -5,6 +5,21 @@
 ##  • About me:
 Tech enthusiast since childhood, I’ve been programming since I was 12 years old and have been working professionally since 2014. I’ve always pursued innovation in creating solutions, exploring different programming languages, databases, architectures, and technologies throughout my journey. Starting with robotics, moving into game development, and naturally evolving into the IT field.
 
+## • Let's connect:
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcardan)
+[![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fcardan)
+
+## • See my profiles:
+
+[![DIO](https://img.shields.io/badge/DIO-000000?style=for-the-badge&logo=)](https://www.dio.me/users/fecardan)
+[![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/felipecardan)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/fcardan/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/fcardan/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Fcardan)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/fcardan)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/felipecardan/wallet)
+
 ## • Hard Skills:
 
 [![PHP](https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=PHP&logoColor=white)](PHP)
@@ -42,9 +57,4 @@ Tech enthusiast since childhood, I’ve been programming since I was 12 years ol
 
 ![Fcardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcardan&theme=swift&show_icons=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fcardan&layout=compact&bg_color=f7f7f7&border_color=e4e2e2&title_color=000&text_color=000)
-
-## • Let's connect:
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcardan)
-[![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fcardan)
 
