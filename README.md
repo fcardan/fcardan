@@ -5,6 +5,8 @@
 ##  • About me:
 Tech enthusiast since childhood, I’ve been programming since I was 12 years old and have been working professionally since 2014. I’ve always pursued innovation in creating solutions, exploring different programming languages, databases, architectures, and technologies throughout my journey. Starting with robotics, moving into game development, and naturally evolving into the IT field.
 
+I am passionate about **data analysis**, **machine learning**, **artificial intelligence**, and automation, creating solutions for data collection, processing, and visualization. Additionally, I have a keen interest in **cybersecurity and hacking**, with a focus on **CTF** practices, **OWASP**, **OSINT**, **SQL Injection**, and cryptography, exploring vulnerabilities and strengthening application security.
+
 ## • Let's connect:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcardan)
