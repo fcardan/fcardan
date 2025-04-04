@@ -1,26 +1,31 @@
 
 # print("Hello World, I'm Felipe!") 👋
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcardan)
+[![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fcardan)
 
 ##  • About me:
 Tech enthusiast since childhood, I’ve been programming since I was 12 years old and have been working professionally since 2014. I’ve always pursued innovation in creating solutions, exploring different programming languages, databases, architectures, and technologies throughout my journey. Starting with robotics, moving into game development, and naturally evolving into the IT field.
 
 I am passionate about **data analysis**, **machine learning**, **artificial intelligence**, and automation, creating solutions for data collection, processing, and visualization. Additionally, I have a keen interest in **cybersecurity and hacking**, with a focus on **CTF** practices, **OWASP**, **OSINT**, **SQL Injection**, and cryptography, exploring vulnerabilities and strengthening application security.
 
-## • Let's connect:
+**CLICK TO SEE MY**\
+[![PROFESSIONAL RESUME](https://img.shields.io/badge/PROFESSIONAL%20RESUME-000000?style=for-the-badge&logo=)](https://www.github.com/fcardan/fcardan/RESUME.md)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcardan)
-[![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fcardan)
+<br>
 
 ## • See my profiles:
 
 [![DIO](https://img.shields.io/badge/DIO-000000?style=for-the-badge&logo=)](https://www.dio.me/users/fecardan)
 [![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/felipecardan)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/fcardan/)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/fcardan/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Fcardan)
+
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/fcardan)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/felipecardan/wallet)
+[![Postman](https://img.shields.io/badge/Postman-FF6B00?style=for-the-badge&logo=postman&logoColor=white)](https://badgr.com/public/assertions/cu0oiHJdTbKtyJ4FjfJgKw?identity__email=fecardan@gmail.com)
 
 ## • Hard Skills:
 
