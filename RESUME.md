@@ -1,29 +1,33 @@
-# RESUME: @fcardan
-📍 SP - Brazil 🇧🇷
+# PROFESSIONAL RESUME: @fcardan
+📍 SP - Brazil.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcardan)
 [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fcardan)
 
-##  Table of Contents
+## **Let's check:**
+- [Education](#education)
+- [Professional Experience](#professional-experience)
+- [Courses and Certifications](#courses-and-certifications)
 
-- [Education](#🎓-education)
-- [Professional Experience](#💻-professional-experience)
-- [Courses and Certifications](#📜-courses-and-certifications)
+<br>
+<br>
 
-
-## 🤓 About me
+## 🤓 About me:
 Tech enthusiast since childhood, I’ve been programming since I was 12 years old and have been working professionally since 2014. I’ve always pursued innovation in creating solutions, exploring different programming languages, databases, architectures, and technologies throughout my journey. Starting with robotics, moving into game development, and naturally evolving into the IT field.
 
 I am passionate about **data analysis**, **machine learning**, **artificial intelligence**, and automation, creating solutions for data collection, processing, and visualization. Additionally, I have a keen interest in **cybersecurity and hacking**, with a focus on **CTF** practices, **OWASP**, **OSINT**, **SQL Injection**, and cryptography, exploring vulnerabilities and strengthening application security.
 
-## 🎓-Education
+<br>
+<br>
+
+## Education
 - **Bachelor of Information Systems (2018)**\
 Universidade São Caetano do Sul (USCS) – São Caetano do Sul,SP - Brazil.
   
 - **Technical High School Diploma in Information Technology (2012)**\
 Cidade El Shadai – Santo André, SP - Brazil.
 
-## 💻-Professional Experience
+## Professional Experience
 
 ### **Backend Software Engineer** @  Agiwork (06/2018 – Present)
 
@@ -51,7 +55,10 @@ Cidade El Shadai – Santo André, SP - Brazil.
 
 **Web Development:** VBScript, Javascript, ASP .Net. Learning and Development in Oracle Databases.
 
-## 📜 Courses and Certifications
+<br>
+<br>
+
+## Courses and Certifications
 
 [![DIO](https://img.shields.io/badge/DIO-000000?style=for-the-badge&logo=)](https://www.dio.me/users/fecardan)
 [![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/felipecardan)
