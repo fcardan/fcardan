@@ -10,7 +10,7 @@ Tech enthusiast since childhood, I’ve been programming since I was 12 years ol
 I am passionate about **data analysis**, **machine learning**, **artificial intelligence**, and automation, creating solutions for data collection, processing, and visualization. Additionally, I have a keen interest in **cybersecurity and hacking**, with a focus on **CTF** practices, **OWASP**, **OSINT**, **SQL Injection**, and cryptography, exploring vulnerabilities and strengthening application security.
 
 **CLICK TO SEE MY**\
-[![PROFESSIONAL RESUME](https://img.shields.io/badge/PROFESSIONAL%20RESUME-000000?style=for-the-badge&logo=)](https://www.github.com/fcardan/fcardan/RESUME.md)
+[![PROFESSIONAL RESUME](https://img.shields.io/badge/PROFESSIONAL%20RESUME-000000?style=for-the-badge&logo=)](https://github.com/fcardan/fcardan/blob/main/RESUME.md)
 
 <br>
 
