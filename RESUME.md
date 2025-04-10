@@ -58,16 +58,32 @@ Cidade El Shadai – Santo André, SP - Brazil.
 <br>
 <br>
 
-## Courses and Certifications
+## Certification
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+- **04/2025** – [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=092D413F5C127251E05F682308250FE04DBE14E77DFD3633A93EFB4393CD014F)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- **04/2025** – [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/cu0oiHJdTbKtyJ4FjfJgKw?identity__email=fecardan@gmail.com)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- **03/2025** – [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/eac33eb3-5ce1-4c8d-b6d1-309e0256f147)
+- **02/2025** – [AWS Educate Machine Learning Foundations](https://www.credly.com/badges/2956ca82-63a4-4515-9c08-39ace8fbf720)
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+- **02/2025** – [Databricks Academy Accreditation - Generative AI Fundamentals](https://credentials.databricks.com/2c5b34da-5137-4fb1-a8d9-87deba7d4ef7#acc.RO94UaSW)
+- **02/2025** – [Databricks Academy Accreditation - Fundamentals](https://credentials.databricks.com/bf269a4c-8281-48d4-9581-03c76ac454b6#acc.ZeVfxlqK)
+
+
+## Profiles
 
 [![DIO](https://img.shields.io/badge/DIO-000000?style=for-the-badge&logo=)](https://www.dio.me/users/fecardan)
 [![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/felipecardan)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/fcardan/)\
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/fcardan/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Fcardan)\
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/fcardan)
-[![Postman](https://img.shields.io/badge/Postman-FF6B00?style=for-the-badge&logo=postman&logoColor=white)](https://badgr.com/public/assertions/cu0oiHJdTbKtyJ4FjfJgKw?identity__email=fecardan@gmail.com)
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/profile/felipecardan/wallet)
+
+## Courses
 
 #### Web & Mobile Development  
 - **2020** – Innovation & Startup Strategy Training – G4 Education  
