@@ -85,19 +85,29 @@ Cidade El Shadai – Santo André, SP - Brazil.
 
 ## Courses
 
-#### Web & Mobile Development  
-- **2020** – Innovation & Startup Strategy Training – G4 Education  
-- **2017** – HTML5 the Right Way – UpInside Training  
-- **2016** – Web Development with HTML, CSS, and JavaScript – Caelum  
-- **2016** – Pro Tableless (Advanced Front-End Techniques) – UpInside Training  
+#### Artificial Intelligence & Machine Learning
+- **2025** – ChatGPT for Devs (DIO.ME)
+- **2025** – Microsoft Azure AI Fundamentals AI-900 (DIO.ME)
+- **2025** – Artificial Intelligence Fundamentals (DIO.ME)
 
-#### Software Architecture & Methodologies  
-- **2014** – Applied Domain-Driven Design with .NET C# – MBCORP  
-- **2016** – Software Testing Fundamentals – OAT Solutions  
+#### Backend Development
+- **2025** - Python Fundamentals (DIO.ME)
+- **2016** – Object-Oriented PHP (UpInside Training)
+
+#### Cloud Computing
+- **2025** - AWS CLF-02 Practitioner (DIO.ME)
 
 #### Database & Version Control  
-- **2017** – Git Workflow Best Practices – UpInside Training  
-- **2017** – MariaDB Essentials – UpInside Training  
+- **2025** – Github Certification (DIO.ME)
+- **2017** – Git Workflow Best Practices (UpInside Training)
+- **2017** – MariaDB Essentials (UpInside Training)
 
-#### Backend Development  
-- **2016** – Object-Oriented PHP – UpInside Training
+#### Web & Mobile Development  
+- **2020** – Innovation & Startup Strategy Training (G4 Education)
+- **2017** – HTML5 the Right Way (UpInside Training)
+- **2016** – Web Development with HTML, CSS, and JavaScript (Caelum)
+- **2016** – Pro Tableless (UpInside Training)
+
+#### Software Architecture & Methodologies  
+- **2014** – Applied Domain-Driven Design with .NET C# (MBCORP)
+- **2016** – Software Testing Fundamentals (OAT Solutions)
