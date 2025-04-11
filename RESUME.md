@@ -4,10 +4,21 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcardan)
 [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fcardan)
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/fcardan/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Fcardan)
+
+[![DIO](https://img.shields.io/badge/DIO-000000?style=for-the-badge&logo=)](https://www.dio.me/users/fecardan)
+[![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/felipecardan)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/fcardan/)
+
+<br>
+<br>
+
 ## **Let's check:**
-- [Education](#education)
 - [Professional Experience](#professional-experience)
-- [Courses and Certifications](#courses-and-certifications)
+- [Education](#education)
+- [Certifications](#certifications)
+- [Courses](#courses)
 
 <br>
 <br>
@@ -18,14 +29,6 @@ Tech enthusiast since childhood, I’ve been programming since I was 12 years ol
 I am passionate about **data analysis**, **machine learning**, **artificial intelligence**, and automation, creating solutions for data collection, processing, and visualization. Additionally, I have a keen interest in **cybersecurity and hacking**, with a focus on **CTF** practices, **OWASP**, **OSINT**, **SQL Injection**, and cryptography, exploring vulnerabilities and strengthening application security.
 
 <br>
-<br>
-
-## Education
-- **Bachelor of Information Systems (2018)**\
-Universidade São Caetano do Sul (USCS) – São Caetano do Sul,SP - Brazil.
-  
-- **Technical High School Diploma in Information Technology (2012)**\
-Cidade El Shadai – Santo André, SP - Brazil.
 
 ## Professional Experience
 
@@ -56,9 +59,17 @@ Cidade El Shadai – Santo André, SP - Brazil.
 **Web Development:** VBScript, Javascript, ASP .Net. Learning and Development in Oracle Databases.
 
 <br>
+
+## Education
+- **Bachelor of Information Systems (2018)**\
+Universidade São Caetano do Sul (USCS) – São Caetano do Sul,SP - Brazil.
+  
+- **Technical High School Diploma in Information Technology (2012)**\
+Cidade El Shadai – Santo André, SP - Brazil.
+
 <br>
 
-## Certification
+## Certifications
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 - **04/2025** – [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=092D413F5C127251E05F682308250FE04DBE14E77DFD3633A93EFB4393CD014F)
@@ -74,14 +85,7 @@ Cidade El Shadai – Santo André, SP - Brazil.
 - **02/2025** – [Databricks Academy Accreditation - Generative AI Fundamentals](https://credentials.databricks.com/2c5b34da-5137-4fb1-a8d9-87deba7d4ef7#acc.RO94UaSW)
 - **02/2025** – [Databricks Academy Accreditation - Fundamentals](https://credentials.databricks.com/bf269a4c-8281-48d4-9581-03c76ac454b6#acc.ZeVfxlqK)
 
-
-## Profiles
-
-[![DIO](https://img.shields.io/badge/DIO-000000?style=for-the-badge&logo=)](https://www.dio.me/users/fecardan)
-[![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/felipecardan)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/fcardan/)\
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/fcardan/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Fcardan)\
+<br>
 
 ## Courses
 
