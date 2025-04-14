@@ -72,6 +72,7 @@ Cidade El Shadai – Santo André, SP - Brazil.
 ## Certifications
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+- **04/2025** – [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=885AA127653329F09732F2A7D4AC118AB9BDDC8DF10683D32F094F59A1728DCB)
 - **04/2025** – [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=092D413F5C127251E05F682308250FE04DBE14E77DFD3633A93EFB4393CD014F)
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
