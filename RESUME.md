@@ -107,6 +107,9 @@ Cidade El Shadai – Santo André, SP - Brazil.
 - **2017** – Git Workflow Best Practices (UpInside Training)
 - **2017** – MariaDB Essentials (UpInside Training)
 
+#### Monitoring & Observability
+- **2025** – Datadog Foundation (Datadog Learn)
+
 #### Web & Mobile Development  
 - **2020** – Innovation & Startup Strategy Training (G4 Education)
 - **2017** – HTML5 the Right Way (UpInside Training)
