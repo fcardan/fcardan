@@ -72,8 +72,9 @@ Cidade El Shadai – Santo André, SP - Brazil.
 ## Certifications
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-- **04/2025** – [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=885AA127653329F09732F2A7D4AC118AB9BDDC8DF10683D32F094F59A1728DCB)
-- **04/2025** – [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=092D413F5C127251E05F682308250FE04DBE14E77DFD3633A93EFB4393CD014F)
+- **04/2025** – [2025 Oracle Cloud Infrastructure Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=7173FF8F791C1AFF382E01009CC85DEFC04AF2A179B9538D40F56235B335C57D)
+- **04/2025** – [2025 Oracle Cloud Infrastructure Certified Data Platform Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=885AA127653329F09732F2A7D4AC118AB9BDDC8DF10683D32F094F59A1728DCB)
+- **04/2025** – [2025 Oracle Cloud Infrastructure Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=092D413F5C127251E05F682308250FE04DBE14E77DFD3633A93EFB4393CD014F)
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 - **04/2025** – [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/cu0oiHJdTbKtyJ4FjfJgKw?identity__email=fecardan@gmail.com)
