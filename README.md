@@ -63,5 +63,5 @@ I am passionate about **data analysis**, **machine learning**, **artificial inte
 ## • Stats:
 
 ![Fcardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcardan&theme=swift&show_icons=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fcardan&layout=compact&bg_color=f7f7f7&border_color=e4e2e2&title_color=000&text_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcardan&layout=compact&bg_color=f7f7f7&border_color=e4e2e2&title_color=000&text_color=000)             
 
