@@ -76,6 +76,9 @@ Cidade El Shadai – Santo André, SP - Brazil.
 - **04/2025** – [2025 Oracle Cloud Infrastructure Certified Data Platform Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=885AA127653329F09732F2A7D4AC118AB9BDDC8DF10683D32F094F59A1728DCB)
 - **04/2025** – [2025 Oracle Cloud Infrastructure Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=092D413F5C127251E05F682308250FE04DBE14E77DFD3633A93EFB4393CD014F)
 
+![DataDog](https://img.shields.io/badge/Datadog-632ca6?style=for-the-badge&logo=datadog&logoColor=white)
+- **04/2025** – [Datadog Foundation](https://learn.datadoghq.com/certificates/w7l0yg9d8r)
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 - **04/2025** – [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/cu0oiHJdTbKtyJ4FjfJgKw?identity__email=fecardan@gmail.com)
 
@@ -92,9 +95,10 @@ Cidade El Shadai – Santo André, SP - Brazil.
 ## Courses
 
 #### Artificial Intelligence & Machine Learning
-- **2025** – ChatGPT for Devs (DIO.ME)
 - **2025** – Microsoft Azure AI Fundamentals AI-900 (DIO.ME)
 - **2025** – Artificial Intelligence Fundamentals (DIO.ME)
+- **2025** – ChatGPT for Devs (DIO.ME)
+- **2025** - XP Inc. Cloud Computing With AI (DIO.ME)
 
 #### Backend Development
 - **2025** - Python Fundamentals (DIO.ME)
